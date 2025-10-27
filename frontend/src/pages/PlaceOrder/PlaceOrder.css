@@ -1,0 +1,19 @@
+.place-order-page {
+  padding: 40px 20px;
+  min-height: 60vh;
+  background: #fafafa;
+}
+
+.place-order-page .container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.place-order-page h1 {
+  color: #2b2f3a;
+  margin-bottom: 12px;
+}
+
+.place-order-page p {
+  color: #49557e;
+}
