@@ -12,7 +12,7 @@ const Header = () => {
           packed, and delivered with love—because great food should always be
           just a tap away!
         </p>
-        <button>Click to View Menu</button>
+        <button>View Menu</button>
       </div>
     </div>
   );

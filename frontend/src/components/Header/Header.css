@@ -13,6 +13,28 @@
   align-items: start;
   gap: 1.5vw;
   max-width: 50%;
-  bottom: 16%;
+  bottom: 10%;
   left: 6vw;
+  animation: fadeIn 3s;
+}
+
+.header-contents h2 {
+  font-weight: 500;
+  color: white;
+  font-size: max(4.5vw, 22px);
+}
+
+.header-contents p {
+  color: hsl(0, 0%, 100%);
+  font-size: 1vw;
+}
+
+.header-contents button {
+  border: none;
+  color: hsl(0, 0%, 45%);
+  font-weight: 500;
+  padding: 1vw 2.3vw;
+  background-color: hsl(0, 0%, 100%);
+  font-size: max(1vw, 13px);
+  border-radius: 50px;
 }
